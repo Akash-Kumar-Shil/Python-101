@@ -12,3 +12,6 @@ This repository contains the code for the Python-101 project. This project is a 
 8. [Mad Libs](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/8-Mad_Libs)
 9. [Leap Year Checker](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/9-Leap_Year_Checker)
 10. [Cli Bmi Calculator](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/10-Cli_Bmi_Calculator)
+11. [Tip Calculator](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/11-Tip_Calculator)
+12. [ Play Music](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/12-Play_Music)
+13. [Cli Password Generator](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/13-Cli_Password_Generator)
