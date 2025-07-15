@@ -18,3 +18,5 @@ This repository contains the code for the Python-101 project. This project is a 
 14. [Prime Number Checker](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/14-Prime_Number_Checker)
 15. [Even Or Odd Number Checker](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/15-Even_or_Odd_Number_Checker)
 16. [Cli Note Book](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/16-Cli_Note_Book)
+17. [Character Counter](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/17-Character_Counter)
+18. [Word Counter](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/18-Word_Counter)
