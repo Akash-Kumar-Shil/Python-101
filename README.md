@@ -20,3 +20,4 @@ This repository contains the code for the Python-101 project. This project is a 
 16. [Cli Note Book](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/16-Cli_Note_Book)
 17. [Character Counter](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/17-Character_Counter)
 18. [Word Counter](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/18-Word_Counter)
+19. [Currency Converter No Internet](https://github.com/Akash-Kumar-Shil/Python-101/tree/main/19-Currency_Converter_No_Internet)
